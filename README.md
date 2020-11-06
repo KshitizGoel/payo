@@ -1,6 +1,6 @@
 # Payo
 
-This project was assigned to me as an internship assignment which I successfully completed within the given time.
+This project was assigned to me as a Flutter internship assignment which I successfully completed within the given time.
 This project has high end and top notch UI with high backend power.
 
 # Backend
