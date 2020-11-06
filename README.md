@@ -1,16 +1,10 @@
 # payo
 
-A new Flutter application.
+This project was assigned to me as an internship assignment which I successfully completed within the given time.
+This project has high end and top notch UI with high backend power.
+The project's Backend is:
+1.) REST API
+2.) Firebase Authentication
+3.) Firebase Realtime Database
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The screenshots are as followed:
